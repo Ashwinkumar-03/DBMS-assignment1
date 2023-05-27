@@ -9,7 +9,7 @@ To create a database using the python code in pycham and connect it with mongodb
 
 ## PROCEDURE :
 
-1. TO install MongoDB and pycharm in your system.
+1. To install MongoDB and pycharm in your system.
 2. write the python code in pycham to create a database.
 3. write the python code in pycham to connect the created  database with MongoDB.
 4. Run the program to create the database and to make the connection.
